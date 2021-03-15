@@ -1,0 +1,41 @@
+{
+	"folders": [
+                {
+                        "path": "./"
+                },{
+                        "path": "STM32F4"
+                },{
+                        "path": "STM32F0"
+                }
+        ],
+        "settings": {
+                "files.associations": {
+                        "terminal.h": "c",
+                        "freertos.h": "c",
+                        "debug.h": "c",
+                        "motor_kinematics.h": "c",
+                        "stm32f4xx_ll_rcc.h": "c",
+                        "stm32f4xx_ll_usart.h": "c",
+                        "terminal_cmds.h": "c",
+                        "coll_avoid.h": "c",
+                        "dynamixel.h": "c",
+                        "stdint.h": "c",
+                        "gpio_map.h": "c",
+                        "freertosconfig.h": "c",
+                        "projdefs.h": "c",
+                        "task.h": "c",
+                        "list.h": "c",
+                        "system_stm32f0xx.h": "c",
+                        "err_manager.h": "c",
+                        "cmsis_os.h": "c",
+                        "os_routines.h": "c",
+                        "string.h": "c",
+                        "dev_map.h": "c",
+                        "stm32f0xx_ll_bus.h": "c",
+                        "core_cm0.h": "c"
+                },
+                "cortex-debug.armToolchainPath": "",
+                "cortex-debug.armToolchainPrefix": "arm-none-eabi",
+                "cortex-debug.openocdPath": "openocd.exe"
+        }
+}
